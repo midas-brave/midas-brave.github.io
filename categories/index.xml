@@ -6,6 +6,7 @@
     <description>Recent content in Categories on Midas</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <copyright>© Midas</copyright>
     <atom:link href="http://localhost:1313/midas-brave/midas-brave.github.io.git/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

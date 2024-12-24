@@ -2,17 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/midas-brave/midas-brave.github.io.git/</loc>
+    <lastmod>2024-12-24T22:49:10+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/midas-brave/midas-brave.github.io.git/posts/</loc>
+    <lastmod>2024-12-24T22:49:10+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/midas-brave/midas-brave.github.io.git/tags/sicp/</loc>
+    <lastmod>2024-12-24T22:49:10+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/midas-brave/midas-brave.github.io.git/tags/</loc>
+    <lastmod>2024-12-24T22:49:10+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/midas-brave/midas-brave.github.io.git/posts/%E8%BF%AD%E4%BB%A3%E4%B8%8E%E9%80%92%E5%BD%92/</loc>
+    <lastmod>2024-12-24T22:49:10+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/midas-brave/midas-brave.github.io.git/posts/hello_hugo/</loc>
     <lastmod>2024-12-23T22:44:03+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/midas-brave/midas-brave.github.io.git/</loc>
-    <lastmod>2024-12-23T22:44:03+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/midas-brave/midas-brave.github.io.git/posts/</loc>
-    <lastmod>2024-12-23T22:44:03+08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/midas-brave/midas-brave.github.io.git/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/midas-brave/midas-brave.github.io.git/tags/</loc>
   </url>
 </urlset>
